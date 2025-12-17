@@ -12,3 +12,5 @@ release patterns. This project bridges neuroscience and data science, combining 
 neurotransmitters propagate through brain tissue and how drugs can reshape their activity patterns.
 
 Question: To optimise an event-detection pipeline that maps spontaneous neural activity across space and time in brain tissue
+
+Presentation plan google docs link: https://docs.google.com/document/d/1Ic7yeTPXuaFCCBoQdj3opqflj_YhHXlUSndXocplTsA/edit?usp=sharing
